@@ -10,3 +10,4 @@ class Solution:
             current_energy -= actual_cost
         
         return total_initial_energy
+ 
